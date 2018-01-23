@@ -2,7 +2,7 @@ src/test/resources/application.properties
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Maven template
-target/
+../target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
