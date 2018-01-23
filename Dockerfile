@@ -1,4 +1,4 @@
-FROM anapsix/alpine-java:8u151b12_server-jre
+FROM anapsix/alpine-java:8u162b12_server-jre
 
 ENV MAVEN_VERSION 3.5.2
 ENV MAVEN_HOME /usr/lib/mvn
